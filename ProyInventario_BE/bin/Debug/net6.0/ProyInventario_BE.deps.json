@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProyInventario_BE/1.0.0": {
+        "runtime": {
+          "ProyInventario_BE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProyInventario_BE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
