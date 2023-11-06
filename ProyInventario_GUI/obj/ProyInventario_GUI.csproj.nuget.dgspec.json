@@ -1,0 +1,279 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_GUI\\ProyInventario_GUI.csproj": {}
+  },
+  "projects": {
+    "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\ProyInventario_ADO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\ProyInventario_ADO.csproj",
+        "projectName": "ProyInventario_ADO",
+        "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\ProyInventario_ADO.csproj",
+        "packagesPath": "C:\\Users\\kim\\.nuget\\packages\\",
+        "outputPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj": {
+                "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj",
+        "projectName": "ProyInventario_BE",
+        "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj",
+        "packagesPath": "C:\\Users\\kim\\.nuget\\packages\\",
+        "outputPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\ProyInventario_BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\ProyInventario_BL.csproj",
+        "projectName": "ProyInventario_BL",
+        "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\ProyInventario_BL.csproj",
+        "packagesPath": "C:\\Users\\kim\\.nuget\\packages\\",
+        "outputPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\ProyInventario_ADO.csproj": {
+                "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_ADO\\ProyInventario_ADO.csproj"
+              },
+              "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj": {
+                "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_GUI\\ProyInventario_GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_GUI\\ProyInventario_GUI.csproj",
+        "projectName": "ProyInventario_GUI",
+        "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_GUI\\ProyInventario_GUI.csproj",
+        "packagesPath": "C:\\Users\\kim\\.nuget\\packages\\",
+        "outputPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\kim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj": {
+                "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BE\\ProyInventario_BE.csproj"
+              },
+              "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\ProyInventario_BL.csproj": {
+                "projectPath": "D:\\Software-development\\4 ciclo\\desarrollo de apps I\\FINAL\\InventarioPlazaVea\\ProyInventario_BL\\ProyInventario_BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.exe
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.dll.config
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.deps.json
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.runtimeconfig.json
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_ADO.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BE.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BL.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BE.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BL.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_ADO.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.AssemblyReference.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.Form1.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.GenerateResource.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\refint\ProyInventario_GUI.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.genruntimeconfig.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ref\ProyInventario_GUI.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.frmLogin.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant01.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant02.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant03.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.MDIPrincipal.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant01.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant02.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant03.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant01.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant02.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant03.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant01.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant02.resources
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant03.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.exe
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.dll.config
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.deps.json
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.runtimeconfig.json
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_GUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BE.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BL.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BE.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_BL.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\bin\Debug\net6.0-windows\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.AssemblyReference.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant01.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant02.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.EmpleadoMant03.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.Form1.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.frmLogin.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.MDIPrincipal.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant01.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant02.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProductoMant03.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.Properties.Resources.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant01.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant02.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.ProveedorMant03.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant01.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant02.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.TiendaMant03.resources
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.GenerateResource.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.AssemblyInfoInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.AssemblyInfo.cs
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.CoreCompileInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.csproj.CopyComplete
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\refint\ProyInventario_GUI.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ProyInventario_GUI.genruntimeconfig.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_GUI\obj\Debug\net6.0-windows\ref\ProyInventario_GUI.dll
