@@ -1,0 +1,30 @@
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.deps.json
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_BE.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_BE.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.AssemblyReference.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.AssemblyInfoInputs.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.AssemblyInfo.cs
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\refint\ProyInventario_ADO.dll
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.pdb
+C:\Users\Fernando\OneDrive\_DESARROLO DE SOFTWARE\ISIL\3 CICLO\Cursos\DESARROLLO DE APLICACIONES I (2621)\PROYECTO\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ref\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.deps.json
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_BE.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\bin\Debug\net6.0\ProyInventario_BE.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.AssemblyReference.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.AssemblyInfoInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.AssemblyInfo.cs
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.CoreCompileInputs.cache
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.csproj.CopyComplete
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\refint\ProyInventario_ADO.dll
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ProyInventario_ADO.pdb
+D:\Software-development\4 ciclo\desarrollo de apps I\FINAL\InventarioPlazaVea\ProyInventario_ADO\obj\Debug\net6.0\ref\ProyInventario_ADO.dll
